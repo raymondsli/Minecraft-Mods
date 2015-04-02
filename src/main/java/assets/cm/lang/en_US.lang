@@ -1,0 +1,26 @@
+item.CustomItem.name=Custom Item
+tile.CustomBlock.name=Custom Block
+
+entity.CustomEntityMob.name=Custom Mob
+entity.CustomEntityPassive.name=Custom Passive Mob
+
+itemGroup.CustomItemTab=Custom Items
+itemGroup.CustomBlockTab=CustomBlocks
+
+item.CustomPickaxe.name=Custom Pickaxe
+item.CustomAxe.name=Custom Axe
+item.CustomSword.name=Custom Sword
+item.CustomHoe.name=Custom Hoe
+item.CustomSpade.name=Custom Shovel
+
+item.CustomFood.name=Custom Food
+item.CustomItemCrops.name=Custom Item Crops
+tile.CustomBlockCrops.name=Custom Block Crops
+item.CustomSeeds.name=Custom Seeds
+
+item.CustomHelmet.name=Custom Helmet
+item.CustomChestplate.name=Custom Chestplate
+item.CustomLeggings.name=Custom Leggings
+item.CustomBoots.name=Custom Boots
+
+item.FireBow.name=Fire Bow
